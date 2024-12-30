@@ -1,0 +1,28 @@
+2024-12-30 00:27:52,187: INFO: test_checkout: Entering the country name as Turkey
+2024-12-30 00:27:57,516: INFO: test_checkout: Purchasing the phone
+2024-12-30 00:27:57,743: INFO: test_checkout: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-30 00:40:46,698: INFO: test_checkout: Entering the country name as Turkey
+2024-12-30 00:40:51,975: INFO: test_checkout: Purchasing the phone
+2024-12-30 00:40:52,210: INFO: test_checkout: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-30 00:41:45,683: INFO: test_checkout: Entering the country name as Turkey
+2024-12-30 00:41:50,969: INFO: test_checkout: Purchasing the phone
+2024-12-30 00:41:51,223: INFO: test_checkout: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-30 00:43:10,121: INFO: test_checkout: Entering the country name as Turkey
+2024-12-30 00:43:15,428: INFO: test_checkout: Purchasing the phone
+2024-12-30 00:43:15,651: INFO: test_checkout: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-30 10:24:58,296: INFO: test_checkout: Entering the country name as Turkey
+2024-12-30 10:25:03,620: INFO: test_checkout: Purchasing the phone
+2024-12-30 10:25:03,863: INFO: test_checkout: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-30 10:27:29,172: INFO: test_checkout: Entering the country name as Turkey
+2024-12-30 10:27:34,528: INFO: test_checkout: Purchasing the phone
+2024-12-30 10:27:34,759: INFO: test_checkout: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-12-30 10:28:14,321: INFO: test_checkout: Entering the country name as Turkey
+2024-12-30 10:28:19,655: INFO: test_checkout: Purchasing the phone
+2024-12-30 10:28:19,861: INFO: test_checkout: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
