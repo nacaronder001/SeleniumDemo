@@ -1,6 +1,6 @@
 import pytest
 from homepageData import HomePage
-import time
+from PageObjects.homepageData import HomePage
 
 @pytest.mark.usefixtures("setup")
 class TestHomePage:
